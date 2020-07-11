@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/war-card-game/static/css/main.df9decc2.chunk.css",
+    "main.js": "/war-card-game/static/js/main.6fbcba9c.chunk.js",
+    "main.js.map": "/war-card-game/static/js/main.6fbcba9c.chunk.js.map",
+    "runtime-main.js": "/war-card-game/static/js/runtime-main.81a3e354.js",
+    "runtime-main.js.map": "/war-card-game/static/js/runtime-main.81a3e354.js.map",
+    "static/js/2.3855e76f.chunk.js": "/war-card-game/static/js/2.3855e76f.chunk.js",
+    "static/js/2.3855e76f.chunk.js.map": "/war-card-game/static/js/2.3855e76f.chunk.js.map",
+    "index.html": "/war-card-game/index.html",
+    "precache-manifest.5b7d33a8d49c280b17baecb029bcf795.js": "/war-card-game/precache-manifest.5b7d33a8d49c280b17baecb029bcf795.js",
+    "service-worker.js": "/war-card-game/service-worker.js",
+    "static/css/main.df9decc2.chunk.css.map": "/war-card-game/static/css/main.df9decc2.chunk.css.map",
+    "static/js/2.3855e76f.chunk.js.LICENSE.txt": "/war-card-game/static/js/2.3855e76f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81a3e354.js",
+    "static/js/2.3855e76f.chunk.js",
+    "static/css/main.df9decc2.chunk.css",
+    "static/js/main.6fbcba9c.chunk.js"
+  ]
+}
